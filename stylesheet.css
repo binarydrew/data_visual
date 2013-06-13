@@ -1,5 +1,13 @@
+li {
+list-style: none;
+display: inline;
+border-style:outset;
+background-color: lightgrey;
+}
 ul {
-list-style: none
+  text-align: center;
+}
 
-
+#container {
+background-color: white;
 }
